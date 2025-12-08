@@ -17,6 +17,10 @@ This repository contains the schematic, layout, and simulation results of a 4-bi
 
 ![Layout of 1-bit Full Subtractor]
 
+
+### Layout of 4 bit Full subtractor 
+<img width="917" height="356" alt="asdadsa11" src="https://github.com/user-attachments/assets/b9f45756-52bd-46f1-b347-d1567ee9b8eb" />
+
 ### 📊 Simulation Result
 ![Simulation waveform of 1-bit Full Subtractor] 
 ![WhatsApp Image 2025-10-18 at 23 32 19](https://github.com/user-attachments/assets/ed171bf3-af57-454f-9e38-a5cf97c8dbfa)
